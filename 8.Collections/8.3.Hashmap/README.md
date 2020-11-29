@@ -91,3 +91,5 @@ fn main() {
 }
 
 ```
+The or_insert method actually returns a mutable reference (&mut V) to the value for this key. Here we store that mutable 
+reference in the count variable, so in order to assign to that value, we must first dereference count using the asterisk (*).

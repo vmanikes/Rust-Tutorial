@@ -19,6 +19,9 @@ fn main() {
         counter += 1;
 
         if counter == 10 {
+            // When associated with loop, a break expression may be used to return a value from
+            // that loop. This is only valid with loop and not with any other type of loop.
+            // If no value is specified, break; returns (). Every break within a loop must return the same type.
             break counter * 2;
         }
     };
