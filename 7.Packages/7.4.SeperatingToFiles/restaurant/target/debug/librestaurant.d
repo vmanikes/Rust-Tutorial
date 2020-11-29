@@ -1,0 +1,1 @@
+/Users/krishnachaitanya/RustProjects/Tutorial/7.Packages/7.4.SeperatingToFiles/restaurant/target/debug/librestaurant.rlib: /Users/krishnachaitanya/RustProjects/Tutorial/7.Packages/7.4.SeperatingToFiles/restaurant/src/front_of_house.rs /Users/krishnachaitanya/RustProjects/Tutorial/7.Packages/7.4.SeperatingToFiles/restaurant/src/lib.rs
